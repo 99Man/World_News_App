@@ -1,16 +1,21 @@
-# news_api
+# InformedNow ⚡
 
-A new Flutter project.
+A **Flutter news application** that integrates **API fetching, layout management, and a beautiful UI design** to keep users updated with the latest news from around the world.  
 
-## Getting Started
+## 🚀 Features  
+- 📰 **Live News Updates** fetched via API  
+- 🎨 **Beautiful UI design** for easy reading  
+- 📱 **Responsive Layout** for all screen sizes  
+- 🌐 **Worldwide News Coverage**  
 
-This project is a starting point for a Flutter application.
+## 📦 Getting Started  
 
-A few resources to get you started if this is your first Flutter project:
+### **Prerequisites**  
+Ensure you have the following installed:  
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)  
+- [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **Installation & Setup**  
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/99Man/world_news_app.git
